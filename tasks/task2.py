@@ -65,88 +65,88 @@ fashion_sales = [ {'id': 1, 'product_name': 'Zara T-Shirt', 'category': 'Men', '
 {'id': 65, 'product_name': 'Zara Hoodie', 'category': 'Kids', 'type': 'Skirt', 'brand': 'Zara', 'color': 'White', 'size': 'XS', 'price': 699, 'in_stock': True},
 {'id': 66, 'product_name': 'H&M Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'Adidas', 'color': 'Green', 'size': 'L', 'price': 3864, 'in_stock': True},
 {'id': 67, 'product_name': 'Adidas Dress', 'category': 'Women', 'type': 'Dress', 'brand': 'Nike', 'color': 'Green', 'size': 'XL', 'price': 2191, 'in_stock': False},
-{'id': 68, 'product_name': 'Allen Solly Dress', 'category': 'Men', 'type': 'Jacket', 'brand': 'Puma', 'color': 'Black', 'size': 'S', 'price': 4280, 'in_stock': True}
-{'id': 69, 'product_name': 'H&M Shirt', 'category': 'Women', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Brown', 'size': 'XS', 'price': 1090, 'in_stock': True}
-{'id': 70, 'product_name': 'Zara Jacket', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'Roadster', 'color': 'Yellow', 'size': 'S', 'price': 1524, 'in_stock': False}
-{'id': 71, 'product_name': 'Levis Kurti', 'category': 'Women', 'type': 'Jacket', 'brand': 'Nike', 'color': 'Green', 'size': 'L', 'price': 2961, 'in_stock': True}
-{'id': 72, 'product_name': 'Allen Solly Jeans', 'category': 'Men', 'type': 'Hoodie', 'brand': 'Adidas', 'color': 'Green', 'size': 'XXL', 'price': 1388, 'in_stock': False}
-{'id': 73, 'product_name': 'H&M Kurti', 'category': 'Women', 'type': 'Shirt', 'brand': 'H&M', 'color': 'Yellow', 'size': 'M', 'price': 2717, 'in_stock': False}
-{'id': 74, 'product_name': 'Levis Shirt', 'category': 'Men', 'type': 'Kurti', 'brand': 'H&M', 'color': 'Black', 'size': 'XL', 'price': 2621, 'in_stock': True}
-{'id': 75, 'product_name': 'Allen Solly Jeans', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Roadster', 'color': 'Brown', 'size': 'XS', 'price': 2859, 'in_stock': False}
-{'id': 76, 'product_name': 'Nike Jeans', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'Nike', 'color': 'Yellow', 'size': 'S', 'price': 3031, 'in_stock': True}
-{'id': 77, 'product_name': 'Nike Jacket', 'category': 'Men', 'type': 'Skirt', 'brand': 'Puma', 'color': 'Green', 'size': 'S', 'price': 2067, 'in_stock': False}
-{'id': 78, 'product_name': 'Allen Solly Kurti', 'category': 'Men', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Pink', 'size': 'M', 'price': 1912, 'in_stock': True}
-{'id': 79, 'product_name': 'Roadster Jacket', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Puma', 'color': 'Blue', 'size': 'XXL', 'price': 2553, 'in_stock': True}
-{'id': 80, 'product_name': 'Zara Kurti', 'category': 'Men', 'type': 'Shirt', 'brand': 'H&M', 'color': 'Blue', 'size': 'M', 'price': 3521, 'in_stock': True}
-{'id': 81, 'product_name': 'Zara Kurti', 'category': 'Men', 'type': 'Dress', 'brand': 'H&M', 'color': 'White', 'size': 'L', 'price': 4293, 'in_stock': True}
-{'id': 82, 'product_name': 'Allen Solly Hoodie', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Allen Solly', 'color': 'White', 'size': 'M', 'price': 1190, 'in_stock': True}
-{'id': 83, 'product_name': 'Zara Jacket', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Levis', 'color': 'Yellow', 'size': 'S', 'price': 1129, 'in_stock': False}
-{'id': 84, 'product_name': 'Roadster Hoodie', 'category': 'Men', 'type': 'Skirt', 'brand': 'Adidas', 'color': 'Red', 'size': 'XS', 'price': 3423, 'in_stock': False}
-{'id': 85, 'product_name': 'Adidas Shirt', 'category': 'Men', 'type': 'Jacket', 'brand': 'Nike', 'color': 'Blue', 'size': 'S', 'price': 4241, 'in_stock': True}
-{'id': 86, 'product_name': 'Nike Shirt', 'category': 'Men', 'type': 'T-Shirt', 'brand': 'Roadster', 'color': 'Green', 'size': 'XXL', 'price': 3846, 'in_stock': False}
-{'id': 87, 'product_name': 'Allen Solly T-Shirt', 'category': 'Women', 'type': 'Skirt', 'brand': 'H&M', 'color': 'Black', 'size': 'XXL', 'price': 1580, 'in_stock': False}
-{'id': 88, 'product_name': 'Puma Dress', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Adidas', 'color': 'Green', 'size': 'XXL', 'price': 578, 'in_stock': False}
-{'id': 89, 'product_name': 'Adidas Skirt', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Green', 'size': 'M', 'price': 2403, 'in_stock': False}
-{'id': 90, 'product_name': 'Allen Solly Hoodie', 'category': 'Women', 'type': 'Dress', 'brand': 'Adidas', 'color': 'Red', 'size': 'L', 'price': 2612, 'in_stock': False}
-{'id': 91, 'product_name': 'Allen Solly T-Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'Zara', 'color': 'Green', 'size': 'XL', 'price': 606, 'in_stock': False}
-{'id': 92, 'product_name': 'Roadster Jacket', 'category': 'Men', 'type': 'T-Shirt', 'brand': 'H&M', 'color': 'Green', 'size': 'XL', 'price': 1836, 'in_stock': False}
-{'id': 93, 'product_name': 'Nike Skirt', 'category': 'Men', 'type': 'Dress', 'brand': 'Levis', 'color': 'Blue', 'size': 'XL', 'price': 4046, 'in_stock': True}
-{'id': 94, 'product_name': 'Zara Skirt', 'category': 'Women', 'type': 'Skirt', 'brand': 'Puma', 'color': 'Green', 'size': 'M', 'price': 2018, 'in_stock': False}
-{'id': 95, 'product_name': 'Allen Solly Skirt', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Zara', 'color': 'Blue', 'size': 'XS', 'price': 1886, 'in_stock': True}
-{'id': 96, 'product_name': 'Roadster Jacket', 'category': 'Men', 'type': 'Dress', 'brand': 'H&M', 'color': 'White', 'size': 'M', 'price': 601, 'in_stock': True}
-{'id': 97, 'product_name': 'Puma T-Shirt', 'category': 'Men', 'type': 'T-Shirt', 'brand': 'H&M', 'color': 'Blue', 'size': 'XXL', 'price': 2881, 'in_stock': True}
-{'id': 98, 'product_name': 'Roadster Jeans', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'H&M', 'color': 'Yellow', 'size': 'S', 'price': 2448, 'in_stock': False}
-{'id': 99, 'product_name': 'Allen Solly T-Shirt', 'category': 'Kids', 'type': 'Jeans', 'brand': 'Allen Solly', 'color': 'Brown', 'size': 'L', 'price': 4352, 'in_stock': True}
-{'id': 100, 'product_name': 'Allen Solly Kurti', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Nike', 'color': 'Yellow', 'size': 'L', 'price': 3000, 'in_stock': True}
-{'id': 101, 'product_name': 'Allen Solly Jacket', 'category': 'Men', 'type': 'Skirt', 'brand': 'Roadster', 'color': 'Brown', 'size': 'XXL', 'price': 4949, 'in_stock': True}
-{'id': 102, 'product_name': 'Zara Jacket', 'category': 'Kids', 'type': 'Dress', 'brand': 'Levis', 'color': 'Pink', 'size': 'XS', 'price': 3933, 'in_stock': False}
-{'id': 103, 'product_name': 'Nike T-Shirt', 'category': 'Kids', 'type': 'T-Shirt', 'brand': 'Nike', 'color': 'White', 'size': 'XL', 'price': 1610, 'in_stock': True}
-{'id': 104, 'product_name': 'Nike Dress', 'category': 'Kids', 'type': 'Dress', 'brand': 'Puma', 'color': 'Red', 'size': 'L', 'price': 1928, 'in_stock': False}
-{'id': 105, 'product_name': 'Allen Solly Dress', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Adidas', 'color': 'Pink', 'size': 'XXL', 'price': 4840, 'in_stock': True}
-{'id': 106, 'product_name': 'Levis Jeans', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Roadster', 'color': 'Brown', 'size': 'XXL', 'price': 3152, 'in_stock': True}
-{'id': 107, 'product_name': 'Zara Kurti', 'category': 'Men', 'type': 'Kurti', 'brand': 'Adidas', 'color': 'Yellow', 'size': 'L', 'price': 1515, 'in_stock': False}
-{'id': 108, 'product_name': 'Zara Jeans', 'category': 'Kids', 'type': 'Jeans', 'brand': 'H&M', 'color': 'Yellow', 'size': 'XL', 'price': 627, 'in_stock': False}
-{'id': 109, 'product_name': 'Allen Solly Jacket', 'category': 'Men', 'type': 'Dress', 'brand': 'Nike', 'color': 'Yellow', 'size': 'XS', 'price': 1797, 'in_stock': True}
-{'id': 110, 'product_name': 'Adidas Jacket', 'category': 'Men', 'type': 'Jacket', 'brand': 'Levis', 'color': 'Green', 'size': 'L', 'price': 4428, 'in_stock': False}
-{'id': 111, 'product_name': 'Nike Skirt', 'category': 'Kids', 'type': 'Skirt', 'brand': 'Adidas', 'color': 'Green', 'size': 'M', 'price': 1123, 'in_stock': False}
-{'id': 112, 'product_name': 'H&M Hoodie', 'category': 'Women', 'type': 'Jeans', 'brand': 'Puma', 'color': 'Blue', 'size': 'S', 'price': 2011, 'in_stock': False}
-{'id': 113, 'product_name': 'Levis Shirt', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Puma', 'color': 'Blue', 'size': 'XL', 'price': 522, 'in_stock': False}
-{'id': 114, 'product_name': 'Roadster Jeans', 'category': 'Men', 'type': 'Shirt', 'brand': 'Zara', 'color': 'Green', 'size': 'M', 'price': 2927, 'in_stock': False}
-{'id': 115, 'product_name': 'Nike Hoodie', 'category': 'Men', 'type': 'Hoodie', 'brand': 'Nike', 'color': 'Yellow', 'size': 'XL', 'price': 1753, 'in_stock': False}
-{'id': 116, 'product_name': 'Adidas Hoodie', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Adidas', 'color': 'Blue', 'size': 'L', 'price': 1371, 'in_stock': False}
-{'id': 117, 'product_name': 'H&M Jacket', 'category': 'Women', 'type': 'Jacket', 'brand': 'Zara', 'color': 'Green', 'size': 'XL', 'price': 4297, 'in_stock': True}
-{'id': 118, 'product_name': 'Nike Jeans', 'category': 'Women', 'type': 'Skirt', 'brand': 'Nike', 'color': 'Green', 'size': 'M', 'price': 2145, 'in_stock': False}
-{'id': 119, 'product_name': 'Roadster Jacket', 'category': 'Women', 'type': 'Kurti', 'brand': 'Nike', 'color': 'Black', 'size': 'XS', 'price': 3201, 'in_stock': True}
-{'id': 120, 'product_name': 'Zara Kurti', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Allen Solly', 'color': 'Pink', 'size': 'L', 'price': 3852, 'in_stock': True}
-{'id': 121, 'product_name': 'Levis Hoodie', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Roadster', 'color': 'White', 'size': 'XXL', 'price': 3351, 'in_stock': False}
-{'id': 122, 'product_name': 'Levis Jacket', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Pink', 'size': 'S', 'price': 1337, 'in_stock': False}
-{'id': 123, 'product_name': 'H&M Jeans', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Zara', 'color': 'Brown', 'size': 'XS', 'price': 1134, 'in_stock': True}
-{'id': 124, 'product_name': 'Roadster Dress', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Allen Solly', 'color': 'Green', 'size': 'S', 'price': 513, 'in_stock': True}
-{'id': 125, 'product_name': 'Nike Jacket', 'category': 'Women', 'type': 'Shirt', 'brand': 'Roadster', 'color': 'Red', 'size': 'XXL', 'price': 4253, 'in_stock': True}
-{'id': 126, 'product_name': 'Nike Jeans', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Roadster', 'color': 'White', 'size': 'XL', 'price': 1935, 'in_stock': False}
-{'id': 127, 'product_name': 'Adidas Jeans', 'category': 'Kids', 'type': 'T-Shirt', 'brand': 'Zara', 'color': 'Blue', 'size': 'M', 'price': 2160, 'in_stock': False}
-{'id': 128, 'product_name': 'Allen Solly Hoodie', 'category': 'Kids', 'type': 'Skirt', 'brand': 'Zara', 'color': 'Black', 'size': 'S', 'price': 510, 'in_stock': False}
-{'id': 129, 'product_name': 'Zara Hoodie', 'category': 'Women', 'type': 'Dress', 'brand': 'Adidas', 'color': 'White', 'size': 'S', 'price': 908, 'in_stock': True}
-{'id': 130, 'product_name': 'H&M Jeans', 'category': 'Women', 'type': 'Dress', 'brand': 'H&M', 'color': 'Green', 'size': 'L', 'price': 2034, 'in_stock': False}
-{'id': 131, 'product_name': 'Allen Solly Skirt', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Puma', 'color': 'Blue', 'size': 'S', 'price': 1976, 'in_stock': True}
-{'id': 132, 'product_name': 'Zara Jacket', 'category': 'Kids', 'type': 'Jeans', 'brand': 'Levis', 'color': 'Green', 'size': 'XL', 'price': 3386, 'in_stock': True}
-{'id': 133, 'product_name': 'Puma Dress', 'category': 'Women', 'type': 'Dress', 'brand': 'Levis', 'color': 'Pink', 'size': 'M', 'price': 2142, 'in_stock': False}
-{'id': 134, 'product_name': 'H&M Jacket', 'category': 'Women', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Red', 'size': 'XXL', 'price': 4335, 'in_stock': False}
-{'id': 135, 'product_name': 'H&M Hoodie', 'category': 'Men', 'type': 'Jacket', 'brand': 'Levis', 'color': 'Brown', 'size': 'S', 'price': 2667, 'in_stock': True}
-{'id': 136, 'product_name': 'Zara Dress', 'category': 'Kids', 'type': 'Dress', 'brand': 'Nike', 'color': 'Brown', 'size': 'S', 'price': 2438, 'in_stock': True}
-{'id': 137, 'product_name': 'Puma Kurti', 'category': 'Men', 'type': 'Dress', 'brand': 'Puma', 'color': 'Brown', 'size': 'XS', 'price': 1580, 'in_stock': True}
-{'id': 138, 'product_name': 'Levis T-Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'Puma', 'color': 'Green', 'size': 'S', 'price': 3924, 'in_stock': False}
-{'id': 139, 'product_name': 'Adidas T-Shirt', 'category': 'Men', 'type': 'Jacket', 'brand': 'Roadster', 'color': 'Green', 'size': 'M', 'price': 2924, 'in_stock': False}
-{'id': 140, 'product_name': 'Adidas T-Shirt', 'category': 'Men', 'type': 'Kurti', 'brand': 'Nike', 'color': 'Green', 'size': 'XL', 'price': 3682, 'in_stock': True}
-{'id': 141, 'product_name': 'Nike T-Shirt', 'category': 'Kids', 'type': 'Shirt', 'brand': 'H&M', 'color': 'Black', 'size': 'M', 'price': 515, 'in_stock': False}
-{'id': 142, 'product_name': 'Adidas Shirt', 'category': 'Women', 'type': 'Jacket', 'brand': 'Nike', 'color': 'Brown', 'size': 'M', 'price': 3616, 'in_stock': False}
-{'id': 143, 'product_name': 'Zara T-Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'H&M', 'color': 'Red', 'size': 'XS', 'price': 3325, 'in_stock': False}
-{'id': 144, 'product_name': 'Adidas T-Shirt', 'category': 'Men', 'type': 'Skirt', 'brand': 'Levis', 'color': 'Black', 'size': 'S', 'price': 3751, 'in_stock': False}
-{'id': 145, 'product_name': 'Adidas Shirt', 'category': 'Men', 'type': 'Skirt', 'brand': 'Allen Solly', 'color': 'Blue', 'size': 'S', 'price': 679, 'in_stock': False}
-{'id': 146, 'product_name': 'Nike Hoodie', 'category': 'Women', 'type': 'Jeans', 'brand': 'Levis', 'color': 'Red', 'size': 'S', 'price': 4142, 'in_stock': False}
-{'id': 147, 'product_name': 'Levis Kurti', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'H&M', 'color': 'Brown', 'size': 'M', 'price': 4968, 'in_stock': False}
-{'id': 148, 'product_name': 'Zara Skirt', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Allen Solly', 'color': 'Pink', 'size': 'XXL', 'price': 3985, 'in_stock': True}
-{'id': 149, 'product_name': 'Levis Kurti', 'category': 'Men', 'type': 'Kurti', 'brand': 'Nike', 'color': 'Yellow', 'size': 'M', 'price': 3528, 'in_stock': False}
+{'id': 68, 'product_name': 'Allen Solly Dress', 'category': 'Men', 'type': 'Jacket', 'brand': 'Puma', 'color': 'Black', 'size': 'S', 'price': 4280, 'in_stock': True},
+{'id': 69, 'product_name': 'H&M Shirt', 'category': 'Women', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Brown', 'size': 'XS', 'price': 1090, 'in_stock': True},
+{'id': 70, 'product_name': 'Zara Jacket', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'Roadster', 'color': 'Yellow', 'size': 'S', 'price': 1524, 'in_stock': False},
+{'id': 71, 'product_name': 'Levis Kurti', 'category': 'Women', 'type': 'Jacket', 'brand': 'Nike', 'color': 'Green', 'size': 'L', 'price': 2961, 'in_stock': True},
+{'id': 72, 'product_name': 'Allen Solly Jeans', 'category': 'Men', 'type': 'Hoodie', 'brand': 'Adidas', 'color': 'Green', 'size': 'XXL', 'price': 1388, 'in_stock': False},
+{'id': 73, 'product_name': 'H&M Kurti', 'category': 'Women', 'type': 'Shirt', 'brand': 'H&M', 'color': 'Yellow', 'size': 'M', 'price': 2717, 'in_stock': False},
+{'id': 74, 'product_name': 'Levis Shirt', 'category': 'Men', 'type': 'Kurti', 'brand': 'H&M', 'color': 'Black', 'size': 'XL', 'price': 2621, 'in_stock': True},
+{'id': 75, 'product_name': 'Allen Solly Jeans', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Roadster', 'color': 'Brown', 'size': 'XS', 'price': 2859, 'in_stock': False},
+{'id': 76, 'product_name': 'Nike Jeans', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'Nike', 'color': 'Yellow', 'size': 'S', 'price': 3031, 'in_stock': True},
+{'id': 77, 'product_name': 'Nike Jacket', 'category': 'Men', 'type': 'Skirt', 'brand': 'Puma', 'color': 'Green', 'size': 'S', 'price': 2067, 'in_stock': False},
+{'id': 78, 'product_name': 'Allen Solly Kurti', 'category': 'Men', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Pink', 'size': 'M', 'price': 1912, 'in_stock': True},
+{'id': 79, 'product_name': 'Roadster Jacket', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Puma', 'color': 'Blue', 'size': 'XXL', 'price': 2553, 'in_stock': True},
+{'id': 80, 'product_name': 'Zara Kurti', 'category': 'Men', 'type': 'Shirt', 'brand': 'H&M', 'color': 'Blue', 'size': 'M', 'price': 3521, 'in_stock': True},
+{'id': 81, 'product_name': 'Zara Kurti', 'category': 'Men', 'type': 'Dress', 'brand': 'H&M', 'color': 'White', 'size': 'L', 'price': 4293, 'in_stock': True},
+{'id': 82, 'product_name': 'Allen Solly Hoodie', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Allen Solly', 'color': 'White', 'size': 'M', 'price': 1190, 'in_stock': True},
+{'id': 83, 'product_name': 'Zara Jacket', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Levis', 'color': 'Yellow', 'size': 'S', 'price': 1129, 'in_stock': False},
+{'id': 84, 'product_name': 'Roadster Hoodie', 'category': 'Men', 'type': 'Skirt', 'brand': 'Adidas', 'color': 'Red', 'size': 'XS', 'price': 3423, 'in_stock': False},
+{'id': 85, 'product_name': 'Adidas Shirt', 'category': 'Men', 'type': 'Jacket', 'brand': 'Nike', 'color': 'Blue', 'size': 'S', 'price': 4241, 'in_stock': True},
+{'id': 86, 'product_name': 'Nike Shirt', 'category': 'Men', 'type': 'T-Shirt', 'brand': 'Roadster', 'color': 'Green', 'size': 'XXL', 'price': 3846, 'in_stock': False},
+{'id': 87, 'product_name': 'Allen Solly T-Shirt', 'category': 'Women', 'type': 'Skirt', 'brand': 'H&M', 'color': 'Black', 'size': 'XXL', 'price': 1580, 'in_stock': False},
+{'id': 88, 'product_name': 'Puma Dress', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Adidas', 'color': 'Green', 'size': 'XXL', 'price': 578, 'in_stock': False},
+{'id': 89, 'product_name': 'Adidas Skirt', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Green', 'size': 'M', 'price': 2403, 'in_stock': False},
+{'id': 90, 'product_name': 'Allen Solly Hoodie', 'category': 'Women', 'type': 'Dress', 'brand': 'Adidas', 'color': 'Red', 'size': 'L', 'price': 2612, 'in_stock': False},
+{'id': 91, 'product_name': 'Allen Solly T-Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'Zara', 'color': 'Green', 'size': 'XL', 'price': 606, 'in_stock': False},
+{'id': 92, 'product_name': 'Roadster Jacket', 'category': 'Men', 'type': 'T-Shirt', 'brand': 'H&M', 'color': 'Green', 'size': 'XL', 'price': 1836, 'in_stock': False},
+{'id': 93, 'product_name': 'Nike Skirt', 'category': 'Men', 'type': 'Dress', 'brand': 'Levis', 'color': 'Blue', 'size': 'XL', 'price': 4046, 'in_stock': True},
+{'id': 94, 'product_name': 'Zara Skirt', 'category': 'Women', 'type': 'Skirt', 'brand': 'Puma', 'color': 'Green', 'size': 'M', 'price': 2018, 'in_stock': False},
+{'id': 95, 'product_name': 'Allen Solly Skirt', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Zara', 'color': 'Blue', 'size': 'XS', 'price': 1886, 'in_stock': True},
+{'id': 96, 'product_name': 'Roadster Jacket', 'category': 'Men', 'type': 'Dress', 'brand': 'H&M', 'color': 'White', 'size': 'M', 'price': 601, 'in_stock': True},
+{'id': 97, 'product_name': 'Puma T-Shirt', 'category': 'Men', 'type': 'T-Shirt', 'brand': 'H&M', 'color': 'Blue', 'size': 'XXL', 'price': 2881, 'in_stock': True},
+{'id': 98, 'product_name': 'Roadster Jeans', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'H&M', 'color': 'Yellow', 'size': 'S', 'price': 2448, 'in_stock': False},
+{'id': 99, 'product_name': 'Allen Solly T-Shirt', 'category': 'Kids', 'type': 'Jeans', 'brand': 'Allen Solly', 'color': 'Brown', 'size': 'L', 'price': 4352, 'in_stock': True},
+{'id': 100, 'product_name': 'Allen Solly Kurti', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Nike', 'color': 'Yellow', 'size': 'L', 'price': 3000, 'in_stock': True},
+{'id': 101, 'product_name': 'Allen Solly Jacket', 'category': 'Men', 'type': 'Skirt', 'brand': 'Roadster', 'color': 'Brown', 'size': 'XXL', 'price': 4949, 'in_stock': True},
+{'id': 102, 'product_name': 'Zara Jacket', 'category': 'Kids', 'type': 'Dress', 'brand': 'Levis', 'color': 'Pink', 'size': 'XS', 'price': 3933, 'in_stock': False},
+{'id': 103, 'product_name': 'Nike T-Shirt', 'category': 'Kids', 'type': 'T-Shirt', 'brand': 'Nike', 'color': 'White', 'size': 'XL', 'price': 1610, 'in_stock': True},
+{'id': 104, 'product_name': 'Nike Dress', 'category': 'Kids', 'type': 'Dress', 'brand': 'Puma', 'color': 'Red', 'size': 'L', 'price': 1928, 'in_stock': False},
+{'id': 105, 'product_name': 'Allen Solly Dress', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Adidas', 'color': 'Pink', 'size': 'XXL', 'price': 4840, 'in_stock': True},
+{'id': 106, 'product_name': 'Levis Jeans', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Roadster', 'color': 'Brown', 'size': 'XXL', 'price': 3152, 'in_stock': True},
+{'id': 107, 'product_name': 'Zara Kurti', 'category': 'Men', 'type': 'Kurti', 'brand': 'Adidas', 'color': 'Yellow', 'size': 'L', 'price': 1515, 'in_stock': False},
+{'id': 108, 'product_name': 'Zara Jeans', 'category': 'Kids', 'type': 'Jeans', 'brand': 'H&M', 'color': 'Yellow', 'size': 'XL', 'price': 627, 'in_stock': False},
+{'id': 109, 'product_name': 'Allen Solly Jacket', 'category': 'Men', 'type': 'Dress', 'brand': 'Nike', 'color': 'Yellow', 'size': 'XS', 'price': 1797, 'in_stock': True},
+{'id': 110, 'product_name': 'Adidas Jacket', 'category': 'Men', 'type': 'Jacket', 'brand': 'Levis', 'color': 'Green', 'size': 'L', 'price': 4428, 'in_stock': False},
+{'id': 111, 'product_name': 'Nike Skirt', 'category': 'Kids', 'type': 'Skirt', 'brand': 'Adidas', 'color': 'Green', 'size': 'M', 'price': 1123, 'in_stock': False},
+{'id': 112, 'product_name': 'H&M Hoodie', 'category': 'Women', 'type': 'Jeans', 'brand': 'Puma', 'color': 'Blue', 'size': 'S', 'price': 2011, 'in_stock': False},
+{'id': 113, 'product_name': 'Levis Shirt', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Puma', 'color': 'Blue', 'size': 'XL', 'price': 522, 'in_stock': False},
+{'id': 114, 'product_name': 'Roadster Jeans', 'category': 'Men', 'type': 'Shirt', 'brand': 'Zara', 'color': 'Green', 'size': 'M', 'price': 2927, 'in_stock': False},
+{'id': 115, 'product_name': 'Nike Hoodie', 'category': 'Men', 'type': 'Hoodie', 'brand': 'Nike', 'color': 'Yellow', 'size': 'XL', 'price': 1753, 'in_stock': False},
+{'id': 116, 'product_name': 'Adidas Hoodie', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Adidas', 'color': 'Blue', 'size': 'L', 'price': 1371, 'in_stock': False},
+{'id': 117, 'product_name': 'H&M Jacket', 'category': 'Women', 'type': 'Jacket', 'brand': 'Zara', 'color': 'Green', 'size': 'XL', 'price': 4297, 'in_stock': True},
+{'id': 118, 'product_name': 'Nike Jeans', 'category': 'Women', 'type': 'Skirt', 'brand': 'Nike', 'color': 'Green', 'size': 'M', 'price': 2145, 'in_stock': False},
+{'id': 119, 'product_name': 'Roadster Jacket', 'category': 'Women', 'type': 'Kurti', 'brand': 'Nike', 'color': 'Black', 'size': 'XS', 'price': 3201, 'in_stock': True},
+{'id': 120, 'product_name': 'Zara Kurti', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Allen Solly', 'color': 'Pink', 'size': 'L', 'price': 3852, 'in_stock': True},
+{'id': 121, 'product_name': 'Levis Hoodie', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Roadster', 'color': 'White', 'size': 'XXL', 'price': 3351, 'in_stock': False},
+{'id': 122, 'product_name': 'Levis Jacket', 'category': 'Kids', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Pink', 'size': 'S', 'price': 1337, 'in_stock': False},
+{'id': 123, 'product_name': 'H&M Jeans', 'category': 'Women', 'type': 'Hoodie', 'brand': 'Zara', 'color': 'Brown', 'size': 'XS', 'price': 1134, 'in_stock': True},
+{'id': 124, 'product_name': 'Roadster Dress', 'category': 'Kids', 'type': 'Jacket', 'brand': 'Allen Solly', 'color': 'Green', 'size': 'S', 'price': 513, 'in_stock': True},
+{'id': 125, 'product_name': 'Nike Jacket', 'category': 'Women', 'type': 'Shirt', 'brand': 'Roadster', 'color': 'Red', 'size': 'XXL', 'price': 4253, 'in_stock': True},
+{'id': 126, 'product_name': 'Nike Jeans', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Roadster', 'color': 'White', 'size': 'XL', 'price': 1935, 'in_stock': False},
+{'id': 127, 'product_name': 'Adidas Jeans', 'category': 'Kids', 'type': 'T-Shirt', 'brand': 'Zara', 'color': 'Blue', 'size': 'M', 'price': 2160, 'in_stock': False},
+{'id': 128, 'product_name': 'Allen Solly Hoodie', 'category': 'Kids', 'type': 'Skirt', 'brand': 'Zara', 'color': 'Black', 'size': 'S', 'price': 510, 'in_stock': False},
+{'id': 129, 'product_name': 'Zara Hoodie', 'category': 'Women', 'type': 'Dress', 'brand': 'Adidas', 'color': 'White', 'size': 'S', 'price': 908, 'in_stock': True},
+{'id': 130, 'product_name': 'H&M Jeans', 'category': 'Women', 'type': 'Dress', 'brand': 'H&M', 'color': 'Green', 'size': 'L', 'price': 2034, 'in_stock': False},
+{'id': 131, 'product_name': 'Allen Solly Skirt', 'category': 'Kids', 'type': 'Shirt', 'brand': 'Puma', 'color': 'Blue', 'size': 'S', 'price': 1976, 'in_stock': True},
+{'id': 132, 'product_name': 'Zara Jacket', 'category': 'Kids', 'type': 'Jeans', 'brand': 'Levis', 'color': 'Green', 'size': 'XL', 'price': 3386, 'in_stock': True},
+{'id': 133, 'product_name': 'Puma Dress', 'category': 'Women', 'type': 'Dress', 'brand': 'Levis', 'color': 'Pink', 'size': 'M', 'price': 2142, 'in_stock': False},
+{'id': 134, 'product_name': 'H&M Jacket', 'category': 'Women', 'type': 'Kurti', 'brand': 'Levis', 'color': 'Red', 'size': 'XXL', 'price': 4335, 'in_stock': False},
+{'id': 135, 'product_name': 'H&M Hoodie', 'category': 'Men', 'type': 'Jacket', 'brand': 'Levis', 'color': 'Brown', 'size': 'S', 'price': 2667, 'in_stock': True},
+{'id': 136, 'product_name': 'Zara Dress', 'category': 'Kids', 'type': 'Dress', 'brand': 'Nike', 'color': 'Brown', 'size': 'S', 'price': 2438, 'in_stock': True},
+{'id': 137, 'product_name': 'Puma Kurti', 'category': 'Men', 'type': 'Dress', 'brand': 'Puma', 'color': 'Brown', 'size': 'XS', 'price': 1580, 'in_stock': True},
+{'id': 138, 'product_name': 'Levis T-Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'Puma', 'color': 'Green', 'size': 'S', 'price': 3924, 'in_stock': False},
+{'id': 139, 'product_name': 'Adidas T-Shirt', 'category': 'Men', 'type': 'Jacket', 'brand': 'Roadster', 'color': 'Green', 'size': 'M', 'price': 2924, 'in_stock': False},
+{'id': 140, 'product_name': 'Adidas T-Shirt', 'category': 'Men', 'type': 'Kurti', 'brand': 'Nike', 'color': 'Green', 'size': 'XL', 'price': 3682, 'in_stock': True},
+{'id': 141, 'product_name': 'Nike T-Shirt', 'category': 'Kids', 'type': 'Shirt', 'brand': 'H&M', 'color': 'Black', 'size': 'M', 'price': 515, 'in_stock': False},
+{'id': 142, 'product_name': 'Adidas Shirt', 'category': 'Women', 'type': 'Jacket', 'brand': 'Nike', 'color': 'Brown', 'size': 'M', 'price': 3616, 'in_stock': False},
+{'id': 143, 'product_name': 'Zara T-Shirt', 'category': 'Women', 'type': 'Jeans', 'brand': 'H&M', 'color': 'Red', 'size': 'XS', 'price': 3325, 'in_stock': False},
+{'id': 144, 'product_name': 'Adidas T-Shirt', 'category': 'Men', 'type': 'Skirt', 'brand': 'Levis', 'color': 'Black', 'size': 'S', 'price': 3751, 'in_stock': False},
+{'id': 145, 'product_name': 'Adidas Shirt', 'category': 'Men', 'type': 'Skirt', 'brand': 'Allen Solly', 'color': 'Blue', 'size': 'S', 'price': 679, 'in_stock': False},
+{'id': 146, 'product_name': 'Nike Hoodie', 'category': 'Women', 'type': 'Jeans', 'brand': 'Levis', 'color': 'Red', 'size': 'S', 'price': 4142, 'in_stock': False},
+{'id': 147, 'product_name': 'Levis Kurti', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'H&M', 'color': 'Brown', 'size': 'M', 'price': 4968, 'in_stock': False},
+{'id': 148, 'product_name': 'Zara Skirt', 'category': 'Kids', 'type': 'Hoodie', 'brand': 'Allen Solly', 'color': 'Pink', 'size': 'XXL', 'price': 3985, 'in_stock': True},
+{'id': 149, 'product_name': 'Levis Kurti', 'category': 'Men', 'type': 'Kurti', 'brand': 'Nike', 'color': 'Yellow', 'size': 'M', 'price': 3528, 'in_stock': False},
 {'id': 150, 'product_name': 'Puma Jacket', 'category': 'Women', 'type': 'T-Shirt', 'brand': 'Allen Solly', 'color': 'Red', 'size': 'L', 'price': 4261, 'in_stock': True}]
 
 
